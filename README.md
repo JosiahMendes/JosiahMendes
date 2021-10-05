@@ -4,7 +4,7 @@
 module computerEngineer
  #(
     parameter NAME      = "Josiah Mendes",
-              INTERESTS = "Computer Architecture, Hardware Design, App Design",
+              INTERESTS = "Computer Architecture, Hardware Design, Systems Programming, App Design",
               SKILLS    = "SystemVerilog, C++, Rust, Dart/Flutter",
               LANGUAGES = "EN, CN";
  ) (
