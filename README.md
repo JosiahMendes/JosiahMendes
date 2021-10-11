@@ -5,7 +5,7 @@ module computerEngineer
  #(
     parameter NAME      = "Josiah Mendes",
               INTERESTS = "Computer Architecture, Hardware Design, Systems Programming, App Design",
-              SKILLS    = "SystemVerilog, C++, Rust, Dart/Flutter",
+              SKILLS    = "SystemVerilog, C++, Dart/Flutter, Python"
               LANGUAGES = "EN, CN";
  ) (
  inout  [2019:2023] ImperialCollege_EIE,
