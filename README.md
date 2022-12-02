@@ -10,7 +10,6 @@ module computerEngineer
  ) (
  inout  [2019:2023] ImperialCollege_EIE,
  inout  [2022:2023] NationalUniversitySingapore,
- inout  [2020:-] Arm,
- inout  [2020:-] MetropolitanTabernacle
+ inout  [2020:-] Arm
 );
 ```
